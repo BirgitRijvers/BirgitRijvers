@@ -3,4 +3,5 @@
 - 📓 I mostly use Python, Nextflow, Bash and R
 - 🦠 I’m currently learning how to create a web-based laboratory inventory management system
 - 🤖 One of my personal future goals is to set up an advanced homelab
+- 🤘 My favorite music genre is metal, mainly death, nu and heavy
 - ✉️ Reach me at birgitrijvers@gmail.com
